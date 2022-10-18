@@ -1,0 +1,14 @@
+.col-main-scr-flex-div{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(246, 239, 239);
+    padding: 10px;
+}
+
+.col-main-scr-width-div{
+    width: 100%;
+}
+
+.col-main-scr-divide-sec{
+    display: block;
+}
