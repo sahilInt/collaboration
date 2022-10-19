@@ -6,3 +6,6 @@
 .half-doughnut-width-div{
     width: 100%;
 }
+.half-doughnut-width-div p{
+    font-weight: 600;
+}

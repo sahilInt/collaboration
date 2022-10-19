@@ -34,7 +34,8 @@ const HalfDoughnutChart = () => {
 
   return (
     <div className='half-doughnut-flex-div'>
-      <div className='half-doughnut-width-div' style={{width:'300px', height:'300px'}}>
+      <div className='half-doughnut-width-div'>
+      <p>Project Completion Rate ⓘ</p>
         <Doughnut  options={options} data={data} />
       </div>
     </div>

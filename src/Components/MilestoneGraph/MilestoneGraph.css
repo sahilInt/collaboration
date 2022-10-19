@@ -1,0 +1,14 @@
+.mil-graph-flex-div{
+    display: flex;
+    justify-content: center;
+}
+
+.mil-graph-width-div{
+    width: 100%;
+}
+
+.mil-graph-main-div{
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+}

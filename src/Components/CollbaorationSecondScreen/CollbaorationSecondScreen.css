@@ -1,0 +1,15 @@
+.collb-sec-scr-flex-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.collb-sec-scr-width-div{
+    width: 100%;
+}
+
+.collb-sec-scr-main-div{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
