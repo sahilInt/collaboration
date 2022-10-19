@@ -12,6 +12,11 @@ ChartJs.register(
 
 const SeverityDoughnut = () => {
 
+    const options={
+        cutout: 80,
+        height: 50,
+        width:50
+    }
 
     const data = {
         datasets: [{
@@ -31,9 +36,9 @@ const SeverityDoughnut = () => {
     return (
         <div className='sever-doug-flex-div'>
             <div className='sever-doug-width-div'>
-                <div className='sever-doug-main-div'>
+                <div className='sever-doug-main-div' >
                 <p>Task by Severity ⓘ</p>
-                    <Doughnut data={data} />
+                    <Doughnut width={"100px"} height={"100px"} options={options} data={data} />
                 </div>
             </div>
         </div>

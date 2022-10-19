@@ -12,3 +12,7 @@
 .col-main-scr-divide-sec{
     display: block;
 }
+.col-main-scr-divide-sec-part-two{
+    display: flex;
+    justify-content: center;
+}

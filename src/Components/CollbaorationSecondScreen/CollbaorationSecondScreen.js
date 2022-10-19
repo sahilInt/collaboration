@@ -8,8 +8,12 @@ const CollbaorationSecondScreen = () => {
     <div className='collb-sec-scr-flex-div'>
       <div className='collb-sec-scr-width-div'>
         <div className='collb-sec-scr-main-div'>
-          <div><SeverityDoughnut/></div>
-          <div><MilestoneGraph/></div>
+          <div className='abcdef'>
+            <SeverityDoughnut />
+          </div>
+          <div className='abcdef'>
+            <MilestoneGraph />
+          </div>
         </div>
       </div>
     </div>

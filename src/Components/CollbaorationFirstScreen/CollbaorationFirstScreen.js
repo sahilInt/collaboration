@@ -63,7 +63,7 @@ const CollbaorationFirstScreen = () => {
                         <div className='collb-first-scrn-sub-div-two'>
                             <div className='hor-bar-graph-comp-div'><HorizontalBarGraph /></div>
 
-                            <div className='hor-bar-graph-comp-div'>
+                            <div className='hor-bar-graph-comp-div-one'>
                             <HalfDoughnutChart/>
                             </div>
                         </div>

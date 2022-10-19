@@ -44,7 +44,7 @@ const MilestoneGraph = () => {
             <div className='mil-graph-width-div'>
                 <div className='mil-graph-main-div'>
                     <p>Tasks by Module ⓘ</p>
-                    <Bar data={dataHorBar} />
+                    <Bar width={"650px"} height={"500px"} data={dataHorBar} />
 
                 </div>
             </div>
