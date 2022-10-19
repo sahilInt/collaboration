@@ -10,6 +10,7 @@
 .collb-first-scr-main-div-flex{
     display: flex;
     gap: 10px;
+    justify-content: center;
 }
 .collb-first-scr-main-div-one{
     display: block;
@@ -19,8 +20,11 @@
     display: flex;
     gap: 10px;
 }
+
 .collb-first-scrn-sub-div-two{
     display: flex;
+    gap: 10px;
+    padding-top: 10px;
 }
 
 .collb-f-scr-sd-one-part-one{
@@ -106,3 +110,46 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+.collb-first-scr-main-div-two{
+    display: block;
+    
+}
+.collb-first-scr-main-div-two-sub-div-one{
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    display: block;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.time-hours-main-div-one{
+    display: flex;
+    gap: 15px;
+    padding-bottom: 5px;
+}
+.time-hours-main-div-one-sub-one{
+    text-align: right;
+    line-height: 0.4;
+}
+
+.time-hours-main-div-one-sub-two{
+    text-align: left;
+    line-height: 0.4;
+    border-left: 1px solid black;
+    padding-left: 15px;
+    height: 60px;
+    align-items: center;
+}
+
+.collb-first-scr-main-div-two-sub-div-one h3{
+    text-align: center;
+}
+
+.hor-bar-graph-comp-div{
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+.hor-bar-graph-main-div p{
+    font-weight: 600;
+}
