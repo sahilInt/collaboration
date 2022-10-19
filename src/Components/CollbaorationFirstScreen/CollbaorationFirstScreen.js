@@ -64,12 +64,13 @@ const CollbaorationFirstScreen = () => {
                             <div className='hor-bar-graph-comp-div'><HorizontalBarGraph /></div>
 
                             <div className='hor-bar-graph-comp-div-one'>
-                            <HalfDoughnutChart/>
+                                <HalfDoughnutChart />
                             </div>
                         </div>
                     </div>
 
-
+                <div className='collb-f-s-m-d-one-part-for-flex'>
+                <div className='collb-f-s-m-d-one-part-for-width'>
                     <div className='collb-first-scr-main-div-two'>
                         <div className='collb-first-scr-main-div-two-sub-div-one'>
                             <h3>Time</h3>
@@ -121,6 +122,8 @@ const CollbaorationFirstScreen = () => {
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    </div>
                     </div>
                 </div>
             </div>

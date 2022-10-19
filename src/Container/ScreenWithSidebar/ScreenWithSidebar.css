@@ -1,0 +1,13 @@
+.collb-scr-with-sidebar-flex-div{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(246, 239, 239);
+}
+.collb-scr-with-sidebar-width-div{
+    width: 100%;
+}
+
+.collb-scr-with-sidebar-main-div{
+    display: flex;
+    justify-content: center;
+}

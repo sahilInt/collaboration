@@ -119,6 +119,13 @@
     display: block;
     
 }
+.collb-f-s-m-d-one-part-for-flex{
+    display: flex;
+    justify-content: center;
+}
+.collb-f-s-m-d-one-part-for-width{
+    width: 100%;
+}
 .collb-first-scr-main-div-two-sub-div-one{
     background-color: white;
     border-radius: 5px;
